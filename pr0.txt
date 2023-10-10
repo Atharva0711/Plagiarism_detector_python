@@ -1,0 +1,7 @@
+For me, the most important idea addressed in the article was Whiting’s goal of making complex design software more accessible to non-scientists. Largely, Whiting works towards enabling non-scientists to unleash their creativity without having any dependency on engineering concepts or the knowledge of CAD— and that to me was inspiring. 
+
+
+The article primarily focuses on how Whiting’s work assists even neophytes to be able to produce a watercolor model on screen. I believe that it is extremely important to make technology accessible since it allows people to express themselves in ways they can’t otherwise and the program spoken about in the article does just that. As mentioned, in only a few steps, users will be able to control their painting’s colors, shading and blending rate after which the software would automatically render the work— making it extremely simple for neophytes. 
+ 
+This article, to a large extent, made me excited about the applications of 3D printing techniques. Out of all of Whiting’s several projects at the Shape Lab, the one that interested me the most was her recent work of creating custom 3D-printed casts for patients with broken bones. Whiting’s research in this field does not only amplify the unthinkable applications of 3D printing and computer programs, but also highlights how technology could be used to address larger problems like providing patients a comfortable and breathable cast. 
+
