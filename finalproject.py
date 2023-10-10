@@ -1,7 +1,3 @@
-"""
-@author: atharvag@bu.edu
-"""
-
 import math
 
 #clean_text helper function
